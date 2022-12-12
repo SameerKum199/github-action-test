@@ -4,7 +4,7 @@ name: Check all English links
 # **Why we have it**: We want to know if any links break.
 # **Who does it impact**: Docs content.
 
-on:["pull"]
+on:[pull]
 
 permissions:
   contents: read
